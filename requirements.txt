@@ -1,0 +1,4 @@
+blosc2>=3.0.0rc2
+numpy>=2.0.0
+jupyterlab
+matplotlib
